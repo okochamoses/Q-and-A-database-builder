@@ -1,0 +1,16 @@
+{
+  "name": "school",
+  "version": "1.0.0",
+  "description": "An app for building up a database for certified Nigerian secondary school exams past questions and answers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Okocha Moses",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.3"
+  }
+}
